@@ -4,8 +4,11 @@
  
  ![](https://github.com/Tariq0Odeh/University/blob/main/COMP333%20-%20Database%20Systems/1.png)
 
-  ---
+---
 
+### What 
+-   This project will be Law Office, since the courts had become an important matter at this time. The idea of this project came to us because lawyers and people who file cases face a problem in knowing the details of their cases and their dates, so we decided to create an application that arranges all those cases and appointments for the user, whether he is an employee inside the office or a customer. Our client is lawyer Fakhri abu bishara he has a law office in Tubas city.
+  
  *  Cases
  *  Reservation
  *  Coustomers
@@ -14,24 +17,18 @@
  *  Payment
  *  Dates 
  *  Relationships
-
----
-
-### What 
--   This project will be Law Office, since the courts had become an important matter at this time. The idea of this project came to us because lawyers and people who file cases face a problem in knowing the details of their cases and their dates, so we decided to create an application that arranges all those cases and appointments for the user, whether he is an employee inside the office or a customer. Our client is lawyer Fakhri abu bishara he has a law office in Tubas city. 
-
 ---
 
 ## ERD 
 -  [ERD Design](Phases.pdf)
--  
+   
 ---
 
  ## How to use it
  - Clone the repo
  - You need to have javafx and scene builder on your computer to be able to run the program
  - To log in, you need to have one of the employees id and use it as a user name and password
- - 
+   
 ---
 
 ## Languages And Tools:
