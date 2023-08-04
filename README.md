@@ -6,7 +6,6 @@
 
 ---
 
-### What 
 -   This project will be Law Office, since the courts had become an important matter at this time. The idea of this project came to us because lawyers and people who file cases face a problem in knowing the details of their cases and their dates, so we decided to create an application that arranges all those cases and appointments for the user, whether he is an employee inside the office or a customer. Our client is lawyer Fakhri abu bishara he has a law office in Tubas city.
   
  *  Cases
@@ -19,7 +18,7 @@
  *  Relationships
 ---
 
-## ERD 
+## ERD & more
 -  [ERD Design](Phases.pdf)
    
 ---
